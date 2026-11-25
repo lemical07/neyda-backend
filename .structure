@@ -1,0 +1,8 @@
+# Estructura de carpetas backend
+src/
+├── config/
+├── controllers/
+├── middlewares/
+├── models/
+└── routes/
+database/
